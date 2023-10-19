@@ -53,6 +53,3 @@ For the product page, the mock data provided was in a simple format, and I was a
 ```
 I was able to reuse the Carousel component for both the "More of this style" and  "You might also like", by passing different titles in the DOM.
 ```
-
-![Screenshot 2023-10-19 at 16 43 59](https://github.com/bhatiakanishk/Fronted_Challenge_CrossingMinds/assets/90340546/540244f4-0376-4f70-be51-d460731c4d42)
-
